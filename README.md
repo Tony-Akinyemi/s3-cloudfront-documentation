@@ -66,14 +66,14 @@ An Amazon CloudFront distribution was configured with the S3 bucket as its origi
 Step 4: Deploy the Website
 
 The CloudFront distribution was enabled and allowed to finish deploying.
-## visit my website
+[click here to visit the website](https://d10ya032ghxxj8.cloudfront.net/)
 
 Step 5: Test the Website
 
 The CloudFront distribution domain name was used to access and test the deployed website.
 ![cloud front](image/cloudfront%20website.png)
 
-6. Project Screenshots
+## Project Screenshots
 ![website](image/cloud%20website.png)
 ![website](image/cloud%20website%202.png)
 
@@ -83,30 +83,30 @@ CloudFront Distribution
 
 Live Website
 
-7. Project Information
+## Project Information
 
-* Project Name: Static Website Hosting Using S3 and CloudFront
-* Cloud Provider: Amazon Web Services (AWS)
-* Storage Service: Amazon S3
-* Content Delivery Network: Amazon CloudFront
-* Documentation Tool: Visual Studio Code
-* Version Control: Git
-* Repository Hosting: GitHub
-* CloudFront URL: [Insert your CloudFront distribution URL]
+- Project Name: Static Website Hosting Using S3 and CloudFront
+- Cloud Provider: Amazon Web Services (AWS)
+- Storage Service: Amazon S3
+- Content Delivery Network: Amazon CloudFront
+- Documentation Tool: Visual Studio Code
+- Version Control: Git
+- Repository Hosting: GitHub
+- CloudFront URL: [https://d10ya032ghxxj8.cloudfront.net/]
 
-8. What I Learned
+## What I Learned
 
 Through this project, I gained practical experience in:
 
-* Creating and managing Amazon S3 buckets.
-* Uploading and storing static website files.
-* Understanding Amazon CloudFront.
-* Configuring a CloudFront distribution with an S3 origin.
-* Understanding how content is delivered through a CDN.
-* Documenting cloud projects using Markdown.
-* Using Git and GitHub for version control and project documentation.
+- Creating and managing Amazon S3 buckets.
+- Uploading and storing static website files.
+- Understanding Amazon CloudFront.
+- Configuring a CloudFront distribution with an S3 origin.
+- Understanding how content is delivered through a CDN.
+- Documenting cloud projects using Markdown.
+- Using Git and GitHub for version control and project documentation.
 
-9. Conclusion
+## Conclusion
 
 This project provided practical experience in deploying a static website using Amazon S3 and Amazon CloudFront.
 
@@ -114,8 +114,8 @@ It also improved my understanding of cloud storage, content delivery networks, w
 
 ⸻
 
-Author: [Your Name]
+Author: **Tony Akinyemi**
 
 Project: Cloud Computing Practical Assignment
 
-Repository: [Insert your GitHub repository URL]
+Repository: [https://github.com/Tony-Akinyemi/s3-cloudfront-documentation.git] 
